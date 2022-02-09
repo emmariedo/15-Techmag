@@ -11,7 +11,7 @@ html {
 body {
   max-width: 320px;
   margin: auto;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 header {
@@ -19,20 +19,32 @@ header {
   border-style: solid;
   border-color: white;
   color: white;
+  background-image: url(../img/code.jpg);
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
 }
 
 img {
-  text-align: center;
   width: 100%;
 }
 
 div {
   background: #00fca6;
   height: 180px;
-  width: 100%;
+  width: 94%;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 article {
   background: white;
   width: auto;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
 }
