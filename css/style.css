@@ -5,13 +5,35 @@
 
 html {
   scroll-behavior: smooth;
+  background: black;
 }
 
 body {
   max-width: 320px;
   margin: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  background-image: url(.../img/code.jpg);
 }
 
 img {
   text-align: center;
+  width: 100%;
+}
+
+div {
+  background: #00fca6;
+  height: 180px;
+  width: 100%;
+}
+
+article {
+  background: white;
+  width: auto;
 }
