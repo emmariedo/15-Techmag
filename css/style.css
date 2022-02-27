@@ -67,7 +67,7 @@ figure {
   height: 120%;
   width: 100%;
   background: white;
-  box-shadow: 2px 2px 2px 2px grey;
+  box-shadow: 0 0 10px #33333344;
   margin: auto;
 }
 
@@ -93,12 +93,11 @@ nav {
   font-weight: 100;
 }
 
-.badge {
-  color: white;
-  background: #444444;
-  width: 40%;
-  text-align: center;
-  padding: 10px;
+.button {
+  background: #444;
+  color: #ddd;
+  padding: 5px 15px;
+  font-family: 'Montserrat', sans-serif;
   font-size: 10px;
 }
 
